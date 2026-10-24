@@ -1,0 +1,10 @@
+2026-10-24 10:32:10,913 INFO endpoint=/score status=200 latency=105.67ms txn_id=T800001 prob=0.0430
+2026-10-24 10:32:10,950 INFO endpoint=/score status=200 latency=31.06ms txn_id=T800002 prob=0.9596
+2026-10-24 10:32:10,990 WARNING endpoint=/score status=200 latency=30.70ms txn_id=T800003 prob=0.1813
+2026-10-24 10:32:10,998 WARNING endpoint=/score status=400 latency=1.94ms txn_id=T800004
+2026-10-24 10:32:11,011 WARNING endpoint=/score status=422 latency=5.17ms txn_id=UNKNOWN
+2026-10-24 10:32:11,082 INFO endpoint=/case status=200 latency=65.74ms txn_id=T900002 prob=0.9596
+2026-10-24 10:32:11,147 WARNING endpoint=/case status=200 latency=55.49ms txn_id=T900005 prob=0.9596
+2026-10-24 10:32:11,189 ERROR endpoint=/case status=503 latency=32.14ms txn_id=T900099 prob=0.9596
+2026-10-24 10:32:11,228 INFO endpoint=/case status=200 latency=31.90ms txn_id=T800001 prob=0.0430
+2026-10-24 10:32:11,268 INFO endpoint=/case status=200 latency=34.79ms txn_id=T800006 prob=0.9596
